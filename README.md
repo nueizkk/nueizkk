@@ -20,7 +20,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/axios-282C34?logo=axios" alt="axios logo" title="axios" height="25" />](#)
 &nbsp;
-
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />](#)
 &nbsp;
 [<img src="https://img.shields.io/badge/jira-282C34?logo=jira&logoColor=336699" alt="jira logo" title="jira" height="25" />](#)
@@ -39,7 +38,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />](#)
 &nbsp;
-
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />](#)
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=8993be" alt="php logo" title="php" height="25" />](#)
