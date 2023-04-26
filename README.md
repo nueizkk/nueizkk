@@ -1,4 +1,4 @@
-# nueiz : frontend developer
+# nueizkk : developer
 
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="26" />](#)
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="26" />](#)
